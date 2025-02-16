@@ -27,3 +27,4 @@ FUTURE ENHANCEMENTS:
 
 CREDITS:
 This project is based on a FreeCodeCamp exercise.
+![Screenshot](./images/Screenshot%20(80).png)
